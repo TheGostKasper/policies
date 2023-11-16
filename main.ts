@@ -13,7 +13,7 @@ export default class YourExtensionMain extends Main.LensExtension {
    */
   onActivate() {
     // print hello world when extension is activated
-    // !! Note that the console statements in MainExtension is NOT visible in the 
+    // !! Note that the console statements in MainExtension is NOT visible in the
     // !! DevTools console in Lens
     // To see console statements, start the Lens app from a Terminal
     console.log("activated");
